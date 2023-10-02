@@ -1,7 +1,7 @@
 hello, i go by Colin, or Colin Sane wherever a form requires a surname.
 don't confuse me with @colinsane, who claimed a handle on this website and then proceeded to never do anything with it. hmm.
 
-my home is at [https://uninsane.org](https://uninsane.org/about).
+my home is at [uninsane.org](https://uninsane.org/about).
 my preferred contact method is via Matrix `@colin:uninsane.org` or email `colin@uninsane.org`.
 all of my code lives at [git.uninsane.org](https://git.uninsane.org): what you see on my Microsoft GitHub profile here
 are mirrors of a subset of repos from there because a handful of FOSS projects i contribute
