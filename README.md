@@ -1,5 +1,4 @@
-hello, i go by Colin, or Colin Sane wherever a form requires a surname.
-don't confuse me with @colinsane, who claimed a handle on this website and then proceeded to never do anything with it. hmm.
+hello, i go by Colin, you can usually find me using the handle `colinsane` or `uninsane`.
 
 my home is at [uninsane.org](https://uninsane.org/about).
 my preferred contact method is via Matrix `@colin:uninsane.org` or email `colin@uninsane.org`,
